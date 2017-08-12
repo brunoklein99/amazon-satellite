@@ -41,7 +41,7 @@ The first image of each row is the actual dataset image, associated with the giv
 ![samplesperclass](http://i.imgur.com/5QSMb1a.jpg)
 ![samplesperclass](http://i.imgur.com/atlZHdL.jpg)
 
-### Occurrenances per category
+### Occurrences per category
 
 ![samplesperclass](http://i.imgur.com/GiuDYx8.png)
 
