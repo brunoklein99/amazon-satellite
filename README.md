@@ -10,23 +10,25 @@ Furthermore, these existing methods generally cannot differentiate between human
 
 ### What the data looks like
 
+The first image of each row is the actual dataset image, associated with the given ID in the title, the two subsequent images of each row are examples of the data agumentation used during training and TTA (Test Time Augmentation)
+
 ![samplesperclass](http://i.imgur.com/y7bCKgr.jpg)
 ![samplesperclass](http://i.imgur.com/ksSC6ja.jpg)
 ![samplesperclass](http://i.imgur.com/L1rRJrW.jpg)
 ![samplesperclass](http://i.imgur.com/zvbvIM5.jpg)
 ![samplesperclass](http://i.imgur.com/zSkydpk.jpg)
 ![samplesperclass](http://i.imgur.com/Un7VqAT.jpg)
-![samplesperclass](http://i.imgur.com/BhD9624.jpg)
-![samplesperclass](http://i.imgur.com/GiuDYx8.png)
-![samplesperclass](http://i.imgur.com/GiuDYx8.png)
-![samplesperclass](http://i.imgur.com/GiuDYx8.png)
-![samplesperclass](http://i.imgur.com/GiuDYx8.png)
-![samplesperclass](http://i.imgur.com/GiuDYx8.png)
-![samplesperclass](http://i.imgur.com/GiuDYx8.png)
-![samplesperclass](http://i.imgur.com/GiuDYx8.png)
-![samplesperclass](http://i.imgur.com/GiuDYx8.png)
-![samplesperclass](http://i.imgur.com/GiuDYx8.png)
-![samplesperclass](http://i.imgur.com/GiuDYx8.png)
+![samplesperclass](http://i.imgur.com/8Niu45O.jpg)
+![samplesperclass](http://i.imgur.com/uVx4XJW.jpg)
+![samplesperclass](http://i.imgur.com/783oE6n.jpg)
+![samplesperclass](http://i.imgur.com/J249CM2.jpg)
+![samplesperclass](http://i.imgur.com/qfzOEmW.jpg)
+![samplesperclass](http://i.imgur.com/oPfTSaO.jpg)
+![samplesperclass](http://i.imgur.com/VpvCY68.jpg)
+![samplesperclass](http://i.imgur.com/Y8DA1MK.jpg)
+![samplesperclass](http://i.imgur.com/Y8DA1MK.jpg)
+![samplesperclass](http://i.imgur.com/5QSMb1a.jpg)
+![samplesperclass](http://i.imgur.com/atlZHdL.jpg)
 
 ## Samples per class
 
