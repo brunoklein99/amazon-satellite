@@ -55,3 +55,6 @@ Submissions will be evaluated based on their mean F2 score. The F score, commonl
 
 Note that the F2 score weights recall higher than precision. The mean F2 score is formed by averaging the individual F2 scores for each row in the test set.
 
+<p align="center"> 
+<img src="http://i.imgur.com/q0hfvRt.png">
+</p>
