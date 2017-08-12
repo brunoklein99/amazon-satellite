@@ -16,7 +16,8 @@ The label file consists of 40479 rows, each containing the labels of each image 
 1    train_1            agriculture clear primary water
 2    train_2                              clear primary
 3    train_3                              clear primary
-4    train_4  agriculture clear habitation primary road```
+4    train_4  agriculture clear habitation primary road
+```
 
 ### What the data looks like
 
