@@ -6,6 +6,28 @@ Planet, designer and builder of the world’s largest constellation of Earth-ima
 
 Furthermore, these existing methods generally cannot differentiate between human causes of forest loss and natural causes. Higher resolution imagery has already been shown to be exceptionally good at this, but robust methods have not yet been developed for Planet imagery. 
 
+## The data
+
+### What the data looks like
+
+![samplesperclass](http://i.imgur.com/y7bCKgr.jpg)
+![samplesperclass](http://i.imgur.com/ksSC6ja.jpg)
+![samplesperclass](http://i.imgur.com/L1rRJrW.jpg)
+![samplesperclass](http://i.imgur.com/zvbvIM5.jpg)
+![samplesperclass](http://i.imgur.com/zSkydpk.jpg)
+![samplesperclass](http://i.imgur.com/Un7VqAT.jpg)
+![samplesperclass](http://i.imgur.com/BhD9624.jpg)
+![samplesperclass](http://i.imgur.com/GiuDYx8.png)
+![samplesperclass](http://i.imgur.com/GiuDYx8.png)
+![samplesperclass](http://i.imgur.com/GiuDYx8.png)
+![samplesperclass](http://i.imgur.com/GiuDYx8.png)
+![samplesperclass](http://i.imgur.com/GiuDYx8.png)
+![samplesperclass](http://i.imgur.com/GiuDYx8.png)
+![samplesperclass](http://i.imgur.com/GiuDYx8.png)
+![samplesperclass](http://i.imgur.com/GiuDYx8.png)
+![samplesperclass](http://i.imgur.com/GiuDYx8.png)
+![samplesperclass](http://i.imgur.com/GiuDYx8.png)
+
 ## Samples per class
 
 ![samplesperclass](http://i.imgur.com/GiuDYx8.png)
