@@ -8,6 +8,16 @@ Furthermore, these existing methods generally cannot differentiate between human
 
 ## The data
 
+### The label file
+
+The label file consists of 40479 rows, each containing the labels of each image separated by white space
+
+```0    train_0                               haze primary
+1    train_1            agriculture clear primary water
+2    train_2                              clear primary
+3    train_3                              clear primary
+4    train_4  agriculture clear habitation primary road```
+
 ### What the data looks like
 
 The first image of each row is the actual dataset image, associated with the given ID in the title, the two subsequent images of each row are examples of the data agumentation used during training and TTA (Test Time Augmentation)
