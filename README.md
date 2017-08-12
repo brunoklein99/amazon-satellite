@@ -49,7 +49,9 @@ The first image of each row is the actual dataset image, associated with the giv
 
 Submissions will be evaluated based on their mean F2 score. The F score, commonly used in information retrieval, measures accuracy using the precision P and recall R. Precision is the ratio of true positives (TP) to all predicted positives (TP + FP). Recall is the ratio of true positives to all actual positives (TP + FN). The F2 score is given by
 
-![f2equation](http://i.imgur.com/7DRo4Vw.jpg)
+<p align="center"> 
+<img src="http://i.imgur.com/7DRo4Vw.jpg">
+</p>
 
 Note that the F2 score weights recall higher than precision. The mean F2 score is formed by averaging the individual F2 scores for each row in the test set.
 
