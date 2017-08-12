@@ -6,6 +6,7 @@ Planet, designer and builder of the world’s largest constellation of Earth-ima
 
 Furthermore, these existing methods generally cannot differentiate between human causes of forest loss and natural causes. Higher resolution imagery has already been shown to be exceptionally good at this, but robust methods have not yet been developed for Planet imagery. 
 
-- Samples per class
+## Samples per class
 
-[[http://i.imgur.com/GiuDYx8.png|alt=samplesperclass]]
+![samplesperclass](http://i.imgur.com/GiuDYx8.png)
+
