@@ -37,7 +37,6 @@ The first image of each row is the actual dataset image, associated with the giv
 ![samplesperclass](http://i.imgur.com/oPfTSaO.jpg)
 ![samplesperclass](http://i.imgur.com/VpvCY68.jpg)
 ![samplesperclass](http://i.imgur.com/Y8DA1MK.jpg)
-![samplesperclass](http://i.imgur.com/Y8DA1MK.jpg)
 ![samplesperclass](http://i.imgur.com/5QSMb1a.jpg)
 ![samplesperclass](http://i.imgur.com/atlZHdL.jpg)
 
