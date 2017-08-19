@@ -67,3 +67,5 @@ Note that the F2 score weights recall higher than precision. The mean F2 score i
 </p>
 
 The final result is able to reach ~0.927 F2 score on the private leaderboard at the ![competition's page](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space)
+
+The irregular accuracy and loss are caused by the dynamic data augmentation nature of the training process.
