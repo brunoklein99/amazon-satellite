@@ -57,3 +57,11 @@ Note that the F2 score weights recall higher than precision. The mean F2 score i
 <p align="center"> 
 <img src="http://i.imgur.com/q0hfvRt.png">
 </p>
+
+## Results
+
+<p align="center"> 
+<img src="http://i.imgur.com/epcSoEU.jpg">
+</p>
+
+The final result is able to reach ~0.927 F2 score on the private leaderboard at the [competition's page](competition's page)
