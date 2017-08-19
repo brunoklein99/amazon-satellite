@@ -71,3 +71,75 @@ The chart above illustrates the fact that it is better for us to tune our decisi
 The final result is able to reach ~0.927 F2 score on the private leaderboard at the ![competition's page](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space)
 
 The irregular accuracy and loss are caused by the dynamic data augmentation nature of the training process.
+
+## Analysis
+
+### Biggest errors per category
+
+<p align="center"> 
+<img src="http://i.imgur.com/MXj7IhH.jpg">
+</p>
+
+<p align="center"> 
+<img src="http://i.imgur.com/9ORmti5.jpg">
+</p>
+
+<p align="center"> 
+<img src="http://i.imgur.com/RbDhGzj.jpg">
+</p>
+
+<p align="center"> 
+<img src="http://i.imgur.com/ffgwIdC.jpg">
+</p>
+
+<p align="center"> 
+<img src="http://i.imgur.com/tWJvsU9.jpg">
+</p>
+
+<p align="center"> 
+<img src="http://i.imgur.com/quVENSr.jpg">
+</p>
+
+<p align="center"> 
+<img src="http://i.imgur.com/zZbfr2F.jpg">
+</p>
+
+<p align="center"> 
+<img src="http://i.imgur.com/5O3lorP.jpg">
+</p>
+
+<p align="center"> 
+<img src="http://i.imgur.com/KOSnlWk.jpg">
+</p>
+
+<p align="center"> 
+<img src="http://i.imgur.com/uKZ6eBW.jpg">
+</p>
+
+<p align="center"> 
+<img src="http://i.imgur.com/p3T8muz.jpg">
+</p>
+
+<p align="center"> 
+<img src="http://i.imgur.com/MmCBzxw.jpg">
+</p>
+
+<p align="center"> 
+<img src="http://i.imgur.com/MmCBzxw.jpg">
+</p>
+
+<p align="center"> 
+<img src="http://i.imgur.com/WLCx3rp.jpg">
+</p>
+
+<p align="center"> 
+<img src="http://i.imgur.com/NSa3KWL.jpg">
+</p>
+
+<p align="center"> 
+<img src="http://i.imgur.com/phpBl7B.jpg">
+</p>
+
+<p align="center"> 
+<img src="http://i.imgur.com/LxeiWU7.jpg">
+</p>
