@@ -1,0 +1,14 @@
+
+\.idea/
+
+__pycache__/
+
+logs/
+
+ytrain\.npy
+
+weights
+
+xtrain\.npy
+
+logs - Copy/
