@@ -77,69 +77,137 @@ The irregular accuracy and loss are caused by the dynamic data augmentation natu
 ### Biggest errors per category
 
 <p align="center"> 
-<img src="http://i.imgur.com/MXj7IhH.jpg">
+ <table>
+  <tr>
+    <td>
+      <p align="center"> 
+        <img src="http://i.imgur.com/MXj7IhH.jpg">
+      </p>
+    </td>
+    <td>
+      <p align="center"> 
+        <img src="http://i.imgur.com/9ORmti5.jpg">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p align="center"> 
+        <img src="http://i.imgur.com/RbDhGzj.jpg">
+      </p>
+    </td>
+    <td>
+      <p align="center"> 
+        <img src="http://i.imgur.com/ffgwIdC.jpg">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p align="center"> 
+        <img src="http://i.imgur.com/tWJvsU9.jpg">
+      </p>
+    </td>
+    <td>
+      <p align="center"> 
+        <img src="http://i.imgur.com/quVENSr.jpg">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p align="center"> 
+        <img src="http://i.imgur.com/zZbfr2F.jpg">
+      </p>
+    </td>
+    <td>
+      <p align="center"> 
+        <img src="http://i.imgur.com/5O3lorP.jpg">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p align="center"> 
+        <img src="http://i.imgur.com/KOSnlWk.jpg">
+      </p>
+    </td>
+    <td>
+      <p align="center"> 
+        <img src="http://i.imgur.com/uKZ6eBW.jpg">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p align="center"> 
+        <img src="http://i.imgur.com/p3T8muz.jpg">
+      </p>
+    </td>
+    <td>
+      <p align="center"> 
+        <img src="http://i.imgur.com/MmCBzxw.jpg">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p align="center"> 
+        <img src="http://i.imgur.com/MmCBzxw.jpg">
+      </p>
+    </td>
+    <td>
+      <p align="center"> 
+        <img src="http://i.imgur.com/WLCx3rp.jpg">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p align="center"> 
+        <img src="http://i.imgur.com/NSa3KWL.jpg">
+      </p>
+    </td>
+    <td>
+      <p align="center"> 
+        <img src="http://i.imgur.com/phpBl7B.jpg">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p align="center"> 
+        <img src="http://i.imgur.com/LxeiWU7.jpg">
+      </p>
+    </td>
+    <td>
+    </td>
+  </tr>
+</table> 
 </p>
 
-<p align="center"> 
-<img src="http://i.imgur.com/9ORmti5.jpg">
-</p>
 
-<p align="center"> 
-<img src="http://i.imgur.com/RbDhGzj.jpg">
-</p>
 
-<p align="center"> 
-<img src="http://i.imgur.com/ffgwIdC.jpg">
-</p>
 
-<p align="center"> 
-<img src="http://i.imgur.com/tWJvsU9.jpg">
-</p>
 
-<p align="center"> 
-<img src="http://i.imgur.com/quVENSr.jpg">
-</p>
 
-<p align="center"> 
-<img src="http://i.imgur.com/zZbfr2F.jpg">
-</p>
 
-<p align="center"> 
-<img src="http://i.imgur.com/5O3lorP.jpg">
-</p>
 
-<p align="center"> 
-<img src="http://i.imgur.com/KOSnlWk.jpg">
-</p>
 
-<p align="center"> 
-<img src="http://i.imgur.com/uKZ6eBW.jpg">
-</p>
 
-<p align="center"> 
-<img src="http://i.imgur.com/p3T8muz.jpg">
-</p>
 
-<p align="center"> 
-<img src="http://i.imgur.com/MmCBzxw.jpg">
-</p>
 
-<p align="center"> 
-<img src="http://i.imgur.com/MmCBzxw.jpg">
-</p>
 
-<p align="center"> 
-<img src="http://i.imgur.com/WLCx3rp.jpg">
-</p>
 
-<p align="center"> 
-<img src="http://i.imgur.com/NSa3KWL.jpg">
-</p>
 
-<p align="center"> 
-<img src="http://i.imgur.com/phpBl7B.jpg">
-</p>
 
-<p align="center"> 
-<img src="http://i.imgur.com/LxeiWU7.jpg">
-</p>
+
+
+
+
+
+
+
+
+
+
