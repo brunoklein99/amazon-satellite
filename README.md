@@ -44,6 +44,8 @@ The first image of each row is the actual dataset image, associated with the giv
 
 ![samplesperclass](http://i.imgur.com/GiuDYx8.png)
 
+A few classes don't have a strong represenation in the dataset for the CNN to be able to robustly classify them, but since they are also under-represented in the test set, this shouldn't be a problem.
+
 ## Evaluation
 
 Submissions will be evaluated based on their mean F2 score. The F score, commonly used in information retrieval, measures accuracy using the precision P and recall R. Precision is the ratio of true positives (TP) to all predicted positives (TP + FP). Recall is the ratio of true positives to all actual positives (TP + FN). The F2 score is given by
