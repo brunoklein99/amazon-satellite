@@ -105,3 +105,63 @@ The irregular accuracy and loss are caused by the dynamic data augmentation natu
 </p>
  
 It's interesting to see some images are clearly mislabeled, such as `agriculture`, `clear`, `habitation`, `road` others false negatives have just a glimpse of their feature, such as `partly_clouy` and `selective_logging` and some are honest mistakes such as `water`, `bare_ground` and `blooming`. The mislabeling is probably because the images are annotated in batches using a broader region from the one represented in the chips.
+
+### Visualising the CNN's decision with "VisualBackProp"
+
+Below we retrived the strongest true positive for each category and plotted a visualization that helps see how the CNN decided the outcome for that classification.
+
+The implementation is almost entirely based on [VisualBackProp: efficient visualization of CNNs](https://arxiv.org/abs/1611.05418v3), but some ideas were gathered from [Visualizing and Understanding Convolutional Networks](https://arxiv.org/abs/1311.2901v3)
+
+The brighest the spot, the more it contributed for the final result.
+
+<p align="center"> 
+<img src="http://i.imgur.com/w1ioVxP.png">
+</p>
+<p align="center"> 
+<img src="http://i.imgur.com/qMkue0n.png">
+</p>
+<p align="center"> 
+<img src="http://i.imgur.com/Erob9LV.png">
+</p>
+<p align="center"> 
+<img src="http://i.imgur.com/fELVXBp.png">
+</p>
+<p align="center"> 
+<img src="http://i.imgur.com/Dnwkx5z.png">
+</p>
+<p align="center"> 
+<img src="http://i.imgur.com/QqHui4H.png">
+</p>
+<p align="center"> 
+<img src="http://i.imgur.com/9clgdGY.png">
+</p>
+<p align="center"> 
+<img src="http://i.imgur.com/HFgSfxY.png">
+</p>
+<p align="center"> 
+<img src="http://i.imgur.com/zfkVojq.png">
+</p>
+<p align="center"> 
+<img src="http://i.imgur.com/hGCS5xN.png">
+</p>
+<p align="center"> 
+<img src="http://i.imgur.com/H5NIuGd.png">
+</p>
+<p align="center"> 
+<img src="http://i.imgur.com/Uw0uIRy.png">
+</p>
+<p align="center"> 
+<img src="http://i.imgur.com/l6IiMg0.png">
+</p>
+<p align="center"> 
+<img src="http://i.imgur.com/XXiB8FD.png">
+</p>
+<p align="center"> 
+<img src="http://i.imgur.com/rblmfxp.png">
+</p>
+<p align="center"> 
+<img src="http://i.imgur.com/5jVkwZO.png">
+</p>
+<p align="center"> 
+<img src="http://i.imgur.com/w5sw0em.png">
+</p>
