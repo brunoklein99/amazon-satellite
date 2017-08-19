@@ -60,6 +60,8 @@ Note that the F2 score weights recall higher than precision. The mean F2 score i
 <img src="http://i.imgur.com/q0hfvRt.png">
 </p>
 
+The chart above illustrates the fact that it is better for us to tune our decision thresholds to reach a higher Recall instead of a higher Precision.
+
 ## Results
 
 <p align="center"> 
