@@ -76,74 +76,31 @@ The irregular accuracy and loss are caused by the dynamic data augmentation natu
 
 ### Biggest errors per category
 
- <table align="center"> 
-  <tr>
-    <td>
-      <img src="http://i.imgur.com/MXj7IhH.jpg">
-    </td>
-    <td>
-      <img src="http://i.imgur.com/9ORmti5.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="http://i.imgur.com/RbDhGzj.jpg">
-    </td>
-    <td>
-      <img src="http://i.imgur.com/ffgwIdC.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="http://i.imgur.com/tWJvsU9.jpg">
-    </td>
-    <td>
-      <img src="http://i.imgur.com/quVENSr.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="http://i.imgur.com/zZbfr2F.jpg">
-    </td>
-    <td>
-      <img src="http://i.imgur.com/5O3lorP.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="http://i.imgur.com/KOSnlWk.jpg">
-    </td>
-    <td>
-      <img src="http://i.imgur.com/uKZ6eBW.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="http://i.imgur.com/p3T8muz.jpg">
-    </td>
-    <td>
-      <img src="http://i.imgur.com/MmCBzxw.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="http://i.imgur.com/MmCBzxw.jpg">
-    </td>
-    <td>
-      <img src="http://i.imgur.com/WLCx3rp.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="http://i.imgur.com/NSa3KWL.jpg">
-    </td>
-    <td>
-      <img src="http://i.imgur.com/phpBl7B.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="http://i.imgur.com/LxeiWU7.jpg">
-    </td>
-  </tr>
-</table> 
+<p align="center"> 
+<img src="http://i.imgur.com/IsfyBRC.jpg">
+</p>
+<p align="center"> 
+<img src="http://i.imgur.com/OGRziiD.jpg">
+</p>
+<p align="center"> 
+<img src="http://i.imgur.com/Uy5Axuq.jpg">
+</p>
+<p align="center"> 
+<img src="http://i.imgur.com/fRkulT4.jpg">
+</p>
+<p align="center"> 
+<img src="http://i.imgur.com/P5M0k0o.jpg">
+</p>
+<p align="center"> 
+<img src="http://i.imgur.com/NCclqFV.jpg">
+</p>
+<p align="center"> 
+<img src="http://i.imgur.com/UgB2HZl.jpg">
+</p>
+<p align="center"> 
+<img src="http://i.imgur.com/DJ33KlS.jpg">
+</p>
+<p align="center"> 
+<img src="http://i.imgur.com/NhDeNuK.jpg">
+</p>
+ 
