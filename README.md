@@ -104,3 +104,4 @@ The irregular accuracy and loss are caused by the dynamic data augmentation natu
 <img src="http://i.imgur.com/NhDeNuK.jpg">
 </p>
  
+It's interesting to see some images are clearly misslabeled, such as `agriculture`, `clear`, `habitation`, `road` others false negatives have just a glimpse of their feature, such as `partly_clouy` and `selective_logging` and some are honest mistakes such as `water`, `bare_ground` and `blooming`
